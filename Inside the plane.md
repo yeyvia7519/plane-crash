@@ -1,6 +1,6 @@
 # Inside the Plane
-
-
-
-[black box](Listen to the flight attendance)
-[Close eyes](Irgnore flight attendance)
+## Inside the Plane
+---
+Select a specific Asian food:
+## [listen to flight anocments](listen-to-flight-anocments.md)
+## [close eyes](close eyes.md)
